@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mapas Android</string>
+    <string name="title_activity_maps">Mapas</string>
+    <string name="btSol">Puerta del Sol</string>
+    <string name="btRetiro">Parque del Retiro</string>
+    <string name="btAtocha">Estación de Atocha</string>
+    <string name="btAlcala">Puerta de Alcalá</string>
+    <!-- parámetros -->
+    <string name="p_titulo">titulo</string>
+    <string name="p_desc">descripcion</string>
+    <string name="p_zoom">zoom</string>
+    <string name="p_lat">latitud</string>
+    <string name="p_lng">longitud</string>
+    <string name="p_tipoMapa">tipo_mapa</string>
+
+
+</resources>
